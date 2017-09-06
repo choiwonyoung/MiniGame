@@ -85,6 +85,7 @@
   <ItemGroup>
     <ClCompile Include="File.cpp" />
     <ClCompile Include="Image.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="State.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
